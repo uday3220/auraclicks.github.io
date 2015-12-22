@@ -1,7 +1,7 @@
 <?php
 // Email Setting
 //=======================================
-$admin_email = "info.auraclicks@gmail.com";
+$admin_email = "info@auraclicks.com";
 $from_name   = "auraclick web";
 
 
